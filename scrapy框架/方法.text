@@ -1,0 +1,7 @@
+scrapy startproject
+
+scrapy genspider
+
+scrapy crawl
+
+
